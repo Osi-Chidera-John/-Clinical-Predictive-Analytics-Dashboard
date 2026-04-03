@@ -79,16 +79,15 @@ Heart disease remains the leading cause of mortality globally. This project demo
 - **Interactive Slicers:** Dynamic filtering by Sex and Disease Status  
 - **Dashboard Design:** Clear UI with color-coded risk indicators  
   - 🟠 Orange → Disease Presence  
-  - 🔵 Blue → No Disease  
-
----
+  - 🔵 Blue → No Disease
+  - 
 ---
 
 ## 🔗 Project Access
 
 You can view and interact with the full dashboard here:
 
-- 📊 **Live Project / File:** [Open Project](https://github.com/Osi-Chidera-John/-Clinical-Predictive-Analytics-Dashboard/blob/main/Heart_Disease_Prediction.xlsx)
+- 📊 **Live Project / File:** [Open Work](https://github.com/Osi-Chidera-John/-Clinical-Predictive-Analytics-Dashboard/blob/main/Heart_Disease_Prediction.xlsx)
 
 ---
 ## 📈 Tools & Technologies
