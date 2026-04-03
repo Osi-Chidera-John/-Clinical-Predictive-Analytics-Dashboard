@@ -88,7 +88,7 @@ Heart disease remains the leading cause of mortality globally. This project demo
 
 You can view and interact with the full dashboard here:
 
-- 📊 **Live Project / File:** [Open Project](PASTE-YOUR-PROJECT-LINK-HERE)
+- 📊 **Live Project / File:** [Open Project](https://github.com/Osi-Chidera-John/-Clinical-Predictive-Analytics-Dashboard/blob/main/Heart_Disease_Prediction.xlsx)
 
 ---
 ## 📈 Tools & Technologies
